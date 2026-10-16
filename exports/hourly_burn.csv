@@ -1,0 +1,4 @@
+service_name,calendar_date,event_hour,requests,bad_requests,burn_rate,severity
+checkout,2026-09-09,16,73,8,21.92,page
+checkout,2026-09-09,15,86,8,18.6,page
+checkout,2026-09-09,17,83,6,14.46,page
